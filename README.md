@@ -10,7 +10,7 @@ Over the course of 5 weeks project duration, our team had:
 - Executed tests to identify vulnerabilities and validated the system's security measures.
 - Assessed and refined the cybersecurity management plan based on test results.
 
-This project was designed to deliver a robust and actionable cybersecurity framework while fostering team collaboration and applying various foundational offensive and defensive security practices learned throughout the entire semesters.
+This project was designed to deliver a robust and actionable cybersecurity framework while fostering team collaboration, effective communication, and applying various foundational offensive and defensive security practices learned throughout the entire semesters.
 
 ### Skills Learned
 
@@ -22,18 +22,17 @@ This project was designed to deliver a robust and actionable cybersecurity frame
 - Interpreting and writing basic scripts
 - Installing and configuring firewalls
 - Implementing Intrusion Prevention Systems (IPS) to monitor data traffic and block malicious traffic
+- Utilizing cloud computing solutions for remote access and data backup
 
 ### Tools & Software Used
 
-The project's sections along with related tools and software are listed as follows:
-  a. Testing concepts and procedures:
-      - Red Teaming    : Kali Linux (NMAP Scan, Ettercap, Zphisher)
-      - Blue Teaming   : 
-
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+The project's related tools and software are listed as follows:
+- Red Teaming       : Kali Linux (NMAP Scan, Ettercap, Zphisher, SMB Map)
+- Blue Teaming      : ELK Stack SIEM, Snort IPS, CCProxy
+- Network Analysis  : Wireshark, Cisco Packet Tracer
+- Operating System  : Windows Server + Active Directory, pfSense FW, Linux Mint
+- Virtualization    : Oracle Virtualbox
+- Cloud             : Microsoft Azure (Azure VM, Azure Backup)
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
