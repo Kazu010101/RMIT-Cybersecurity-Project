@@ -1,3 +1,4 @@
+
 # RMIT-Cybersecurity-Project
 
 ## Objective
@@ -34,11 +35,8 @@ The project's related tools and software are listed as follows:
 - Virtualization    : Oracle Virtualbox
 - Cloud             : Microsoft Azure (Azure VM, Azure Backup)
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Project Step 1: Identification of Problems
 
-Every screenshot should have some text explaining what the screenshot is about.
+![Client topology screenshot](https://github.com/user-attachments/assets/0884d27f-7384-468a-967a-1bd70291cb38)
 
-Example below.
-
-*Ref 1: Network Diagram*
+*Ref 1: Client's Network Topology before the improvement*
