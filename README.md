@@ -44,6 +44,7 @@ The project's related tools and software are listed as follows:
 - Office contains an ARLO nanny cam connected to Wi-Fi for after-hours monitoring with camera angle located behind front desk PC, overlooking the keyboard and monitor.
 - IoT devices (laptops, printers, peripherals) used on-site and offsite.
 - Both Guest and Staff use personal devices on the workplace network; WFH staff access company resources over various unsecured networks.
+- There has been reports that some staff use the company's network or PC during work hours to play online games; they turned off firewalls to access the game, and sometimes forgot to turn it back on.
 
 
 ![Client topology screenshot](https://github.com/user-attachments/assets/0884d27f-7384-468a-967a-1bd70291cb38)
