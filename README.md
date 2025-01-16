@@ -3,7 +3,7 @@
 
 ## Objective
 
-In this team project comprised of four members including myself, the primary objective is to design and implement a cybersecurity improvement and management plan for a new imaginary company comprises of 20-40 employees with a basic SOHO network environment. This project focuses on leveraging introductory Red Team and Blue Team methods to establish a secure system resistant to common vulnerabilities.
+In this team project comprised of four members including myself, the primary objective is to design and implement a cybersecurity improvement and management plan for XYZ which company comprises of 20-40 employees with a basic SOHO network environment. The team is required to leverage introductory Red Team and Blue Team methods to test, verify, and establish a secure system resistant to common vulnerabilities.
 
 Over the course of 5 weeks project duration, our team had:
 - Collaborated on decision-making to outline an effective cybersecurity strategy.
@@ -17,13 +17,13 @@ This project was designed to deliver a robust and actionable cybersecurity frame
 
 - Testing concepts and procedures for cybersecurity including virtualisation (creating, configuring, and interconnecting virtual images)
 - Installing and using software packages including those for testing
-- Using procedures and systems to identify data traffic anomalies
+- Using procedures and tools to identify data traffic anomalies
 - Connecting cyber security equipment and networked devices
 - Utilizing basic Linux commands
 - Interpreting and writing basic scripts
 - Installing and configuring firewalls
 - Implementing Intrusion Prevention Systems (IPS) to monitor data traffic and block malicious traffic
-- Utilizing cloud computing solutions for remote access and data backup
+- Utilizing cloud computing solutions for remote access and off-premise data backup
 
 ### Tools & Software Used
 
@@ -35,8 +35,29 @@ The project's related tools and software are listed as follows:
 - Virtualization    : Oracle Virtualbox
 - Cloud             : Microsoft Azure (Azure VM, Azure Backup)
 
-## Project Step 1: Identification of Problems
+## The Project: Summary of XYZ Company 
+
+- The company is new to cybersecurity; it operates a subscriber website hosting and selling digitial creative contents via a web server stored in the cloud.
+- Acquire Personally Identifiable Information (PII) and Personal Financial Information (PFI) from users upon subscribing; they are stored in external hard drive or office PC.
+- Account access managed through usernames and passwords are issued by a director; details stored in a shared spreadsheet.
+- Staff can create new accounts with other web resources and forward the login details of those accounts to the director for safekeeping and to maintain business interests too. 
+- Office contains an ARLO nanny cam connected to Wi-Fi for after-hours monitoring with camera angle located behind front desk PC, overlooking the keyboard and monitor.
+- IoT devices (laptops, printers, peripherals) used on-site and offsite.
+- Both Guest and Staff use personal devices on the workplace network; WFH staff access company resources over various unsecured networks.
+
 
 ![Client topology screenshot](https://github.com/user-attachments/assets/0884d27f-7384-468a-967a-1bd70291cb38)
 
-*Ref 1: Client's Network Topology before the improvement*
+*Ref 1: XYZ Network Topology before the improvement. The Goal is to secure existing infrastructure with security tools, software, physical infrastructure, access management, and monitoring, as well as
+Developing a plan for additional security measures.*
+
+## The Project: Red Teaming Activities
+
+| Activities                                         | Associated Lab         |
+|-----------------------------------------------|----------------------------|
+| Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
+| Red Team: Nmap Scan, Zphisher, SMBMap, Ettercap | <a href="https://google.com">Detection Lab</a>|
+| Blue Team: ELK Stack SIEM, pfSense FW,        | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
