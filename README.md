@@ -3,7 +3,7 @@
 
 ## Objective
 
-In this team project comprised of four members including myself, the primary objective is to design and implement a cybersecurity improvement and management plan for XYZ which company comprises of 20-40 employees with a basic SOHO network environment. The team is required to leverage introductory Red Team and Blue Team methods to test, verify, and establish a secure system resistant to common vulnerabilities.
+In this team project comprised of four members including myself, the primary objective is to design and implement a cybersecurity improvement and management plan for XYZ which company comprises of 20-40 employees with a basic SOHO network environment. The team is required to leverage introductory Red Team and Blue Team methods to test, verify, and establish a secure system resistant to common vulnerabilities. Note that although we worked as a team, the RMIT project assessment requires each team member to build up the virtual environment personally and demonstrates running configuration to the teacher. Thus, all screenshots provided in this portfolio are from my own labs.
 
 Over the course of 5 weeks project duration, our team had:
 - Collaborated on decision-making to outline an effective cybersecurity strategy.
@@ -57,7 +57,7 @@ Developing a plan for additional security measures.*
 |-----------------------------------------------|----------------------------|
 | Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | Red Team: Nmap Scan, Zphisher, SMBMap, Ettercap | <a href="https://google.com">Detection Lab</a>|
-| Blue Team: ELK Stack SIEM, pfSense FW,        | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Blue Team: ELK Stack SIEM, pfSense FW, Snort IPS        | SOC Automation Lab|
+| Install Windows Server + Active Directory (AD)| SOC Automation Lab|
+| Link CCProxy with AD for Domain-User Authentication                 | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
