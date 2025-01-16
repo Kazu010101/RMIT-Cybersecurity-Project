@@ -56,8 +56,8 @@ Developing a plan for additional security measures.*
 | Activities                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
 | Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
-| Red Team: Nmap Scan, Zphisher, SMBMap, Ettercap | <a href="https://google.com">Detection Lab</a>|
-| Blue Team: ELK Stack SIEM, pfSense FW, Snort IPS        | SOC Automation Lab|
+| Red Teaming: Nmap Scan, Zphisher, SMBMap, Ettercap | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
+| Blue Teaming: ELK Stack SIEM, pfSense FW, Snort IPS        | SOC Automation Lab|
 | Install Windows Server + Active Directory (AD)| SOC Automation Lab|
 | Link CCProxy with AD for Domain-User Authentication                 | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
