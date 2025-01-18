@@ -1,9 +1,9 @@
 
 # RMIT-Cybersecurity-Project
 
-## Objective
+## Overview
 
-In this team project comprised of four members including myself, the primary objective is to design and implement a cybersecurity improvement and management plan for XYZ which company comprises of 20-40 employees with a basic SOHO network environment. The team is required to leverage introductory Red Team and Blue Team methods to test, verify, and establish a secure system resistant to common vulnerabilities. Note that although we worked as a team, the RMIT project assessment requires each team member to build up the virtual environment personally and demonstrates running configuration to the teacher. Thus, all screenshots provided in this portfolio are from my own labs.
+In this team project comprised of four members including myself, the primary objective is to design and implement a cybersecurity improvement and management plan for XYZ which company comprises of 20-40 employees with a basic SOHO network environment. To achieve the objective, the team is required to leverage introductory Red Team and Blue Team methods to test, verify, and establish a secure system resistant to common vulnerabilities. Note that although we worked as a team, the RMIT project assessment requires each team member to build up the virtual environment personally and demonstrates running configuration to the teacher. Thus, all screenshots provided in this portfolio are from my own labs.
 
 Over the course of 5 weeks project duration, our team had:
 - Collaborated on decision-making to outline an effective cybersecurity strategy.
@@ -27,7 +27,6 @@ This project was designed to deliver a robust and actionable cybersecurity frame
 
 ### Tools & Software Used
 
-The project's related tools and software are listed as follows:
 - Red Teaming       : Kali Linux (NMAP Scan, Ettercap, Zphisher, SMB Map)
 - Blue Teaming      : ELK Stack SIEM, Snort IPS, CCProxy
 - Network Analysis  : Wireshark, Cisco Packet Tracer
@@ -46,7 +45,6 @@ The project's related tools and software are listed as follows:
 - Both Guest and Staff use personal devices on the workplace network; WFH staff access company resources over various unsecured networks.
 - There have been reports that some staff use the company's network or PC during work hours to play online games; they turned off Windows firewalls to access the game, and sometimes forgot to turn it back on.
 
-
 ![Client topology screenshot](https://github.com/user-attachments/assets/0884d27f-7384-468a-967a-1bd70291cb38)
 
 *Ref 1: XYZ Network Topology before the improvement. The Goal is to secure existing infrastructure with security tools, software, physical infrastructure, access management, and monitoring, as well as
@@ -57,8 +55,10 @@ Developing a plan for additional security measures.*
 | Activities                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
 | Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
-| Red Teaming: Nmap Scan, Zphisher, SMBMap, Ettercap | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
-| Blue Teaming: ELK Stack SIEM, pfSense FW, Snort IPS        | SOC Automation Lab|
+| Red Teaming: |
+| Nmap Scan | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
+| DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
+| Social Engineering Attack        | <a href="https://github.com/Kazu010101/Zphisher-RMIT-Cybersecurity-Project"> Zphisher Phishing Attack </a>|
 | Install Windows Server + Active Directory (AD)| SOC Automation Lab|
 | Link CCProxy with AD for Domain-User Authentication                 | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
