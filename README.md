@@ -50,16 +50,16 @@ This project was designed to deliver a robust and actionable cybersecurity frame
 *Ref 1: XYZ Network Topology before the improvement. The Goal is to secure existing infrastructure with security tools, software, physical infrastructure, access management, and monitoring, as well as
 Developing a plan for additional security measures.*
 
-## The Project: Red Teaming Activities
+## Project Activities & Labs
 
 | Activities                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
 | Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
-| Red Teaming: |
+| **Red Teaming:** |
 | Nmap Scan | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
 | DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
 | Social Engineering Attack        | <a href="https://github.com/Kazu010101/Zphisher-RMIT-Cybersecurity-Project"> Zphisher Phishing Attack </a>|
-| Blue Teaming: |
-| Windows Server 2022 | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Win-Server </a>|
+| **Blue Teaming:** |
+| Windows Server 2022 | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 </a>|
 | Active Directory                | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
