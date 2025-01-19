@@ -60,6 +60,6 @@ Developing a plan for additional security measures.*
 | DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
 | Social Engineering Attack        | <a href="https://github.com/Kazu010101/Zphisher-RMIT-Cybersecurity-Project"> Zphisher Phishing Attack </a>|
 | Blue Teaming: |
-| Install Windows Server + Active Directory (AD)| SOC Automation Lab|
+| Install Windows Server 2022 + Active Directory (AD)| SOC Automation Lab|
 | Link CCProxy with AD for Domain-User Authentication                 | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
