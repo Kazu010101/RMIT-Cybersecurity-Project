@@ -60,6 +60,6 @@ Developing a plan for additional security measures.*
 | DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
 | Social Engineering Attack        | <a href="https://github.com/Kazu010101/Zphisher-RMIT-Cybersecurity-Project"> Zphisher Phishing Attack </a>|
 | **Blue Teaming:** |
-| Windows Server 2022 | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 </a>|
+| Windows Server 2022 (Virtual Machine) | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 VM </a>|
 | Active Directory                | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
