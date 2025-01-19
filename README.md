@@ -56,10 +56,10 @@ Developing a plan for additional security measures.*
 |-----------------------------------------------|----------------------------|
 | Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | **Red Teaming:** |
-| Nmap Scan | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
-| DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
-| Social Engineering Attack        | <a href="https://github.com/Kazu010101/Zphisher-RMIT-Cybersecurity-Project"> Zphisher Phishing Attack </a>|
+| &nbsp;&nbsp;&nbsp;&nbsp;Nmap Scan | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
+| &nbsp;&nbsp;&nbsp;&nbsp;DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
+| &nbsp;&nbsp;&nbsp;&nbsp;Social Engineering Attack        | <a href="https://github.com/Kazu010101/Zphisher-RMIT-Cybersecurity-Project"> Zphisher Phishing Attack </a>|
 | **Blue Teaming:** |
-| Windows Server 2022 (Virtual Machine) | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 VM </a>|
-| Active Directory                | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| &nbsp;&nbsp;&nbsp;&nbsp;Windows Server 2022 (Virtual Machine) | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 VM </a>|
+| &nbsp;&nbsp;&nbsp;&nbsp;Active Directory                | SOC Automation Lab|
+| &nbsp;&nbsp;&nbsp;&nbsp;Scripting and Automation for Threat Mitigation | SOC Automation Lab|
