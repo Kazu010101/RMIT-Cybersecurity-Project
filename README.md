@@ -62,5 +62,5 @@ Developing a plan for additional security measures.*
 | &nbsp;&nbsp;&nbsp;&nbsp;Data Exfiltration        | <a href="https://github.com/Kazu010101/SMB-Map-RMIT-Cybersecurity-Project"> Smbmap, smbclient </a>|
 | **Blue Teaming:** |
 | &nbsp;&nbsp;&nbsp;&nbsp;Windows Server 2022 (Virtual Machine) | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 VM </a>|
-| &nbsp;&nbsp;&nbsp;&nbsp;Active Directory                | SOC Automation Lab|
+| &nbsp;&nbsp;&nbsp;&nbsp;Active Directory Domain Controller (ADDC)               | <a href="https://github.com/Kazu010101/Active-Directory-RMIT-Cybersecurity-Project"> Install ADDC </a>|
 | &nbsp;&nbsp;&nbsp;&nbsp;Scripting and Automation for Threat Mitigation | SOC Automation Lab|
