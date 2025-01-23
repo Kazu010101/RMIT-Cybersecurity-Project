@@ -63,4 +63,4 @@ Developing a plan for additional security measures.*
 | **Blue Teaming:** |
 | &nbsp;&nbsp;&nbsp;&nbsp;Windows Server 2022 (Virtual Machine) | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 VM </a>|
 | &nbsp;&nbsp;&nbsp;&nbsp;Active Directory Domain Controller (ADDC)               | <a href="https://github.com/Kazu010101/Active-Directory-RMIT-Cybersecurity-Project"> Install ADDC </a>|
-| &nbsp;&nbsp;&nbsp;&nbsp;Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| &nbsp;&nbsp;&nbsp;&nbsp;Active Directory OU, Users, Group, Password Policy | <a href="https://github.com/Kazu010101/AD-Setup-OU-User-Group-Policy-RMIT-Cybersecurity-Project/blob/main/README.md"> AD Setups </a>|
