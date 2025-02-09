@@ -30,7 +30,7 @@ This project was designed to deliver a robust and actionable cybersecurity frame
 - Red Teaming       : Kali Linux (NMAP Scan, Ettercap, Zphisher, SMB Map)
 - Blue Teaming      : ELK Stack SIEM, Snort IPS, CCProxy
 - Network Analysis  : Wireshark, Cisco Packet Tracer
-- Operating System  : Windows Server + Active Directory, pfSense FW, Linux Mint
+- Operating System  : Windows Server 2022 + Active Directory, pfSense FW, Linux Mint
 - Virtualization    : Oracle Virtualbox
 - Cloud             : Microsoft Azure (Azure VM, Azure Backup)
 
@@ -54,7 +54,6 @@ Developing a plan for additional security measures.*
 
 | Activities                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
-| Building Virtual Machines to simulate client's machines and environment          | <a href="https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md">RMIT-Cybersecurity-Project</a>|
 | **Red Teaming:** |
 | &nbsp;&nbsp;&nbsp;&nbsp;Nmap Scan | <a href="https://github.com/Kazu010101/Nmap-Scan-RMIT-Cybersecurity-Project/blob/main/README.md">Nmap Scan</a>|
 | &nbsp;&nbsp;&nbsp;&nbsp;DoS Attack | <a href="https://github.com/Kazu010101/DoS-Attack-RMIT-Cybersecurity-Project/blob/main/README.md"> Ettercap DoS Attack</a>|
@@ -64,3 +63,7 @@ Developing a plan for additional security measures.*
 | &nbsp;&nbsp;&nbsp;&nbsp;Windows Server 2022 (Virtual Machine) | <a href="https://github.com/Kazu010101/Win-Server-2022-RMIT-Cybersecurity-Project/blob/main/README.md"> Install Windows-Server 2022 VM </a>|
 | &nbsp;&nbsp;&nbsp;&nbsp;Active Directory Domain Controller (ADDC)               | <a href="https://github.com/Kazu010101/Active-Directory-RMIT-Cybersecurity-Project"> Install ADDC </a>|
 | &nbsp;&nbsp;&nbsp;&nbsp;Active Directory OU, Users, Group, Password Policy | <a href="https://github.com/Kazu010101/AD-Setup-OU-User-Group-Policy-RMIT-Cybersecurity-Project/blob/main/README.md"> AD Setups </a>|
+| &nbsp;&nbsp;&nbsp;&nbsp;pfSense Firewall | IN PROGRESS|
+| &nbsp;&nbsp;&nbsp;&nbsp;Snort IPS | IN PROGRESS|
+| &nbsp;&nbsp;&nbsp;&nbsp;Elastic SIEM | IN PROGRESS|
+| &nbsp;&nbsp;&nbsp;&nbsp;AD linked with CCProxy | IN PROGRESS|
